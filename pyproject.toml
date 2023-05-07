@@ -17,6 +17,7 @@ tensorflow-metal = "^0.8.0"
 numpy = "1.23.2"
 xgboost = "^1.7.5"
 matplotlib = "^3.7.1"
+tqdm = "^4.65.0"
 
 
 [tool.poetry.group.dev.dependencies]
